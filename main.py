@@ -7,7 +7,7 @@ import pytz
 import multiprocessing
 
 def get_chat_id():
-    chat_id = "-1273342593"
+    chat_id = "-4233332543"
 
     return chat_id
 
@@ -28,7 +28,7 @@ def crypto_monitoring():
     sleep_time.sleep(86400)
 
 def get_api_key():
-    api_key = "7174292983:AAE2XlW4n-TrebDh3XCAlJ_P4k2qDwe6hpU"
+    api_key = "6004710666:AAFbMiRyzybGGaoz3VIjaTRf-IzraogU56A"
 
     return api_key
 
